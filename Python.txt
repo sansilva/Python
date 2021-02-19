@@ -1,0 +1,6 @@
+A função print
+
+Já vimos no vídeo anterior como imprimir uma mensagem:
+
+>>> print("ola mundo")
+ola mundo
